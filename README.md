@@ -2,4 +2,4 @@ randomized drum synthesis and sequencing inspired by [sequa](https://github.com/
 
 includes master effects and sampling
 
-<img src="app.png" width="600"/>
+<img src="app.png" width="800"/>
